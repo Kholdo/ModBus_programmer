@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+"""
+File name: tools.py
+Author: Koldo Pina
+Date created: 06/02/2018
+Date last modified: 06/02/2018
+Python Version: 3.5
+"""
+
 def usedComPorts():
     '''Devuelve la lista de los puertos COM que se están utilizando
     '''
